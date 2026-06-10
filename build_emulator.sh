@@ -1,0 +1,1 @@
+clang --target="arm64-apple-macos13" simple_emulator.c -o simple_emulator.out

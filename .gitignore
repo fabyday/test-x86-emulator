@@ -1,3 +1,2 @@
 loader
-main*
-a.out
+*.out
